@@ -1,8 +1,9 @@
 body{
-    background-color: #ccc ;
+    background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    max-width: 900px;
+    max-width: 1200px;
     margin: auto;
+    color: white;
 
 }
 
@@ -35,4 +36,26 @@ section#comeco{
     margin: 10px;
     width: 100%;
 
+}
+
+.container_1{
+    display: block;
+    background-color:#65a30d;
+    border-radius: 9px;
+}
+
+.video_frame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+
+}
+
+.h2_frame{
+    color: #65a30d;
+}
+
+.h_section2{
+    color: #65a30d;
 }
